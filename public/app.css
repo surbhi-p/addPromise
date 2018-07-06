@@ -1,0 +1,18 @@
+.textBox{
+    width: fit-content;
+    padding: 10px;
+    border: 25px solid blue;
+}
+.page{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding: 50px;
+    background-color: aquamarine;
+}
+.outResult{
+    width: 300px;
+    height: 30px;
+    padding: 10px;
+    border:  2px solid blue;
+}
